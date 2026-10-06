@@ -1,0 +1,23 @@
+{
+  "source_rows": 9646,
+  "selected_rows": 1020,
+  "available_rows": 1014,
+  "unavailable_rows": 6,
+  "available_caution_rows": 83,
+  "first_period": "2019Q1",
+  "latest_period": "2026Q2",
+  "regions": [
+    "Calgary",
+    "Montréal",
+    "Ottawa–Gatineau (Ontario)",
+    "Ottawa–Gatineau (Quebec)",
+    "Toronto",
+    "Vancouver"
+  ],
+  "quality_flag_counts": {
+    "": 931,
+    "E": 83,
+    "F": 4,
+    "..": 2
+  }
+}

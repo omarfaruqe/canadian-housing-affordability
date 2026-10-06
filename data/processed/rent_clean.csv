@@ -1,0 +1,1021 @@
+reference_date,year,quarter,period,region,source_geography,apartment_type,rent_measure,monthly_rent_cad,quality_flag,quality_note,is_available,use_with_caution,source_vector
+2019-01-01,2019,1,2019Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1150.0,,No caution flag,True,False,v1675425122
+2019-01-01,2019,1,2019Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1360.0,,No caution flag,True,False,v1675425123
+2019-01-01,2019,1,2019Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1240.0,,No caution flag,True,False,v1938684619
+2019-01-01,2019,1,2019Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1500.0,,No caution flag,True,False,v1675425124
+2019-01-01,2019,1,2019Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,910.0,,No caution flag,True,False,v1675425121
+2019-01-01,2019,1,2019Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,980.0,,No caution flag,True,False,v1675425022
+2019-01-01,2019,1,2019Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,760.0,,No caution flag,True,False,v1938684478
+2019-01-01,2019,1,2019Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1130.0,,No caution flag,True,False,v1675425023
+2019-01-01,2019,1,2019Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,830.0,,No caution flag,True,False,v1938684479
+2019-01-01,2019,1,2019Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1610.0,,No caution flag,True,False,v1675425024
+2019-01-01,2019,1,2019Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,920.0,,No caution flag,True,False,v1938684480
+2019-01-01,2019,1,2019Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,860.0,,No caution flag,True,False,v1675425021
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1360.0,,No caution flag,True,False,v1675424992
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1050.0,,No caution flag,True,False,v1938684436
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1710.0,,No caution flag,True,False,v1675424993
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2210.0,,No caution flag,True,False,v1675424994
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1140.0,,No caution flag,True,False,v1675424991
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,830.0,,No caution flag,True,False,v1675424972
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,980.0,,No caution flag,True,False,v1675424973
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,840.0,,No caution flag,True,False,v1938684409
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1170.0,,No caution flag,True,False,v1675424974
+2019-01-01,2019,1,2019Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,680.0,E,Use with caution,True,True,v1675424971
+2019-01-01,2019,1,2019Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1990.0,,No caution flag,True,False,v1675425047
+2019-01-01,2019,1,2019Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1330.0,,No caution flag,True,False,v1938684513
+2019-01-01,2019,1,2019Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2560.0,,No caution flag,True,False,v1675425048
+2019-01-01,2019,1,2019Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1470.0,,No caution flag,True,False,v1938684514
+2019-01-01,2019,1,2019Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2850.0,,No caution flag,True,False,v1675425049
+2019-01-01,2019,1,2019Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1680.0,,No caution flag,True,False,v1675425046
+2019-01-01,2019,1,2019Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1870.0,,No caution flag,True,False,v1675425157
+2019-01-01,2019,1,2019Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1240.0,,No caution flag,True,False,v1938684667
+2019-01-01,2019,1,2019Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2490.0,,No caution flag,True,False,v1675425158
+2019-01-01,2019,1,2019Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1480.0,,No caution flag,True,False,v1938684668
+2019-01-01,2019,1,2019Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3480.0,,No caution flag,True,False,v1675425159
+2019-01-01,2019,1,2019Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1730.0,,No caution flag,True,False,v1675425156
+2019-04-01,2019,2,2019Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1150.0,,No caution flag,True,False,v1675425122
+2019-04-01,2019,2,2019Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1360.0,,No caution flag,True,False,v1675425123
+2019-04-01,2019,2,2019Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1260.0,,No caution flag,True,False,v1938684619
+2019-04-01,2019,2,2019Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1510.0,,No caution flag,True,False,v1675425124
+2019-04-01,2019,2,2019Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,880.0,,No caution flag,True,False,v1675425121
+2019-04-01,2019,2,2019Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,990.0,,No caution flag,True,False,v1675425022
+2019-04-01,2019,2,2019Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,780.0,,No caution flag,True,False,v1938684478
+2019-04-01,2019,2,2019Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1170.0,,No caution flag,True,False,v1675425023
+2019-04-01,2019,2,2019Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,830.0,,No caution flag,True,False,v1938684479
+2019-04-01,2019,2,2019Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1500.0,,No caution flag,True,False,v1675425024
+2019-04-01,2019,2,2019Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,920.0,E,Use with caution,True,True,v1938684480
+2019-04-01,2019,2,2019Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,840.0,,No caution flag,True,False,v1675425021
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1410.0,,No caution flag,True,False,v1675424992
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1070.0,,No caution flag,True,False,v1938684436
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1750.0,,No caution flag,True,False,v1675424993
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2150.0,,No caution flag,True,False,v1675424994
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1150.0,,No caution flag,True,False,v1675424991
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,860.0,,No caution flag,True,False,v1675424972
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,990.0,,No caution flag,True,False,v1675424973
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,840.0,,No caution flag,True,False,v1938684409
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1090.0,E,Use with caution,True,True,v1675424974
+2019-04-01,2019,2,2019Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,670.0,,No caution flag,True,False,v1675424971
+2019-04-01,2019,2,2019Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1980.0,,No caution flag,True,False,v1675425047
+2019-04-01,2019,2,2019Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1340.0,,No caution flag,True,False,v1938684513
+2019-04-01,2019,2,2019Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2550.0,,No caution flag,True,False,v1675425048
+2019-04-01,2019,2,2019Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1490.0,,No caution flag,True,False,v1938684514
+2019-04-01,2019,2,2019Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2860.0,,No caution flag,True,False,v1675425049
+2019-04-01,2019,2,2019Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1720.0,,No caution flag,True,False,v1675425046
+2019-04-01,2019,2,2019Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1900.0,,No caution flag,True,False,v1675425157
+2019-04-01,2019,2,2019Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1270.0,,No caution flag,True,False,v1938684667
+2019-04-01,2019,2,2019Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2580.0,,No caution flag,True,False,v1675425158
+2019-04-01,2019,2,2019Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1470.0,,No caution flag,True,False,v1938684668
+2019-04-01,2019,2,2019Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3670.0,,No caution flag,True,False,v1675425159
+2019-04-01,2019,2,2019Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1680.0,,No caution flag,True,False,v1675425156
+2019-07-01,2019,3,2019Q3,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1160.0,,No caution flag,True,False,v1675425122
+2019-07-01,2019,3,2019Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1370.0,,No caution flag,True,False,v1675425123
+2019-07-01,2019,3,2019Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1270.0,,No caution flag,True,False,v1938684619
+2019-07-01,2019,3,2019Q3,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1530.0,,No caution flag,True,False,v1675425124
+2019-07-01,2019,3,2019Q3,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,940.0,,No caution flag,True,False,v1675425121
+2019-07-01,2019,3,2019Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1100.0,,No caution flag,True,False,v1675425022
+2019-07-01,2019,3,2019Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,800.0,,No caution flag,True,False,v1938684478
+2019-07-01,2019,3,2019Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1310.0,,No caution flag,True,False,v1675425023
+2019-07-01,2019,3,2019Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,840.0,,No caution flag,True,False,v1938684479
+2019-07-01,2019,3,2019Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1620.0,,No caution flag,True,False,v1675425024
+2019-07-01,2019,3,2019Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,940.0,,No caution flag,True,False,v1938684480
+2019-07-01,2019,3,2019Q3,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,900.0,,No caution flag,True,False,v1675425021
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1510.0,,No caution flag,True,False,v1675424992
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1110.0,,No caution flag,True,False,v1938684436
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1800.0,,No caution flag,True,False,v1675424993
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2170.0,,No caution flag,True,False,v1675424994
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1200.0,,No caution flag,True,False,v1675424991
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,900.0,,No caution flag,True,False,v1675424972
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1060.0,,No caution flag,True,False,v1675424973
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,840.0,,No caution flag,True,False,v1938684409
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1160.0,,No caution flag,True,False,v1675424974
+2019-07-01,2019,3,2019Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,680.0,,No caution flag,True,False,v1675424971
+2019-07-01,2019,3,2019Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1970.0,,No caution flag,True,False,v1675425047
+2019-07-01,2019,3,2019Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1360.0,,No caution flag,True,False,v1938684513
+2019-07-01,2019,3,2019Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2480.0,,No caution flag,True,False,v1675425048
+2019-07-01,2019,3,2019Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1510.0,,No caution flag,True,False,v1938684514
+2019-07-01,2019,3,2019Q3,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2840.0,,No caution flag,True,False,v1675425049
+2019-07-01,2019,3,2019Q3,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1730.0,,No caution flag,True,False,v1675425046
+2019-07-01,2019,3,2019Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1870.0,,No caution flag,True,False,v1675425157
+2019-07-01,2019,3,2019Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1300.0,,No caution flag,True,False,v1938684667
+2019-07-01,2019,3,2019Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2500.0,,No caution flag,True,False,v1675425158
+2019-07-01,2019,3,2019Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1520.0,,No caution flag,True,False,v1938684668
+2019-07-01,2019,3,2019Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3670.0,,No caution flag,True,False,v1675425159
+2019-07-01,2019,3,2019Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1640.0,,No caution flag,True,False,v1675425156
+2019-10-01,2019,4,2019Q4,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1170.0,,No caution flag,True,False,v1675425122
+2019-10-01,2019,4,2019Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1410.0,,No caution flag,True,False,v1675425123
+2019-10-01,2019,4,2019Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1290.0,,No caution flag,True,False,v1938684619
+2019-10-01,2019,4,2019Q4,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1510.0,,No caution flag,True,False,v1675425124
+2019-10-01,2019,4,2019Q4,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,930.0,,No caution flag,True,False,v1675425121
+2019-10-01,2019,4,2019Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1100.0,,No caution flag,True,False,v1675425022
+2019-10-01,2019,4,2019Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,820.0,E,Use with caution,True,True,v1938684478
+2019-10-01,2019,4,2019Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1360.0,,No caution flag,True,False,v1675425023
+2019-10-01,2019,4,2019Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,860.0,,No caution flag,True,False,v1938684479
+2019-10-01,2019,4,2019Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1680.0,,No caution flag,True,False,v1675425024
+2019-10-01,2019,4,2019Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,980.0,,No caution flag,True,False,v1938684480
+2019-10-01,2019,4,2019Q4,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,890.0,,No caution flag,True,False,v1675425021
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1510.0,,No caution flag,True,False,v1675424992
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1140.0,E,Use with caution,True,True,v1938684436
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1790.0,,No caution flag,True,False,v1675424993
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2220.0,,No caution flag,True,False,v1675424994
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1180.0,,No caution flag,True,False,v1675424991
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,920.0,,No caution flag,True,False,v1675424972
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1150.0,,No caution flag,True,False,v1675424973
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,840.0,,No caution flag,True,False,v1938684409
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1180.0,,No caution flag,True,False,v1675424974
+2019-10-01,2019,4,2019Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,840.0,E,Use with caution,True,True,v1675424971
+2019-10-01,2019,4,2019Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1980.0,,No caution flag,True,False,v1675425047
+2019-10-01,2019,4,2019Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1370.0,,No caution flag,True,False,v1938684513
+2019-10-01,2019,4,2019Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2480.0,,No caution flag,True,False,v1675425048
+2019-10-01,2019,4,2019Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1520.0,,No caution flag,True,False,v1938684514
+2019-10-01,2019,4,2019Q4,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2800.0,,No caution flag,True,False,v1675425049
+2019-10-01,2019,4,2019Q4,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1590.0,,No caution flag,True,False,v1675425046
+2019-10-01,2019,4,2019Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1890.0,,No caution flag,True,False,v1675425157
+2019-10-01,2019,4,2019Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1340.0,,No caution flag,True,False,v1938684667
+2019-10-01,2019,4,2019Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2490.0,,No caution flag,True,False,v1675425158
+2019-10-01,2019,4,2019Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1600.0,E,Use with caution,True,True,v1938684668
+2019-10-01,2019,4,2019Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3500.0,,No caution flag,True,False,v1675425159
+2019-10-01,2019,4,2019Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1670.0,,No caution flag,True,False,v1675425156
+2020-01-01,2020,1,2020Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1180.0,,No caution flag,True,False,v1675425122
+2020-01-01,2020,1,2020Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1410.0,,No caution flag,True,False,v1675425123
+2020-01-01,2020,1,2020Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1320.0,,No caution flag,True,False,v1938684619
+2020-01-01,2020,1,2020Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1540.0,,No caution flag,True,False,v1675425124
+2020-01-01,2020,1,2020Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,880.0,,No caution flag,True,False,v1675425121
+2020-01-01,2020,1,2020Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1110.0,,No caution flag,True,False,v1675425022
+2020-01-01,2020,1,2020Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,830.0,E,Use with caution,True,True,v1938684478
+2020-01-01,2020,1,2020Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1330.0,,No caution flag,True,False,v1675425023
+2020-01-01,2020,1,2020Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,880.0,,No caution flag,True,False,v1938684479
+2020-01-01,2020,1,2020Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1730.0,,No caution flag,True,False,v1675425024
+2020-01-01,2020,1,2020Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,980.0,,No caution flag,True,False,v1938684480
+2020-01-01,2020,1,2020Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,920.0,,No caution flag,True,False,v1675425021
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1560.0,,No caution flag,True,False,v1675424992
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1150.0,E,Use with caution,True,True,v1938684436
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1850.0,,No caution flag,True,False,v1675424993
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2360.0,E,Use with caution,True,True,v1675424994
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1210.0,,No caution flag,True,False,v1675424991
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,970.0,,No caution flag,True,False,v1675424972
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1120.0,,No caution flag,True,False,v1675424973
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,860.0,,No caution flag,True,False,v1938684409
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1250.0,,No caution flag,True,False,v1675424974
+2020-01-01,2020,1,2020Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,740.0,,No caution flag,True,False,v1675424971
+2020-01-01,2020,1,2020Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2000.0,,No caution flag,True,False,v1675425047
+2020-01-01,2020,1,2020Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1390.0,,No caution flag,True,False,v1938684513
+2020-01-01,2020,1,2020Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2490.0,,No caution flag,True,False,v1675425048
+2020-01-01,2020,1,2020Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1550.0,,No caution flag,True,False,v1938684514
+2020-01-01,2020,1,2020Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2840.0,,No caution flag,True,False,v1675425049
+2020-01-01,2020,1,2020Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1610.0,,No caution flag,True,False,v1675425046
+2020-01-01,2020,1,2020Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1910.0,,No caution flag,True,False,v1675425157
+2020-01-01,2020,1,2020Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1370.0,,No caution flag,True,False,v1938684667
+2020-01-01,2020,1,2020Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2530.0,,No caution flag,True,False,v1675425158
+2020-01-01,2020,1,2020Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1690.0,E,Use with caution,True,True,v1938684668
+2020-01-01,2020,1,2020Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3400.0,,No caution flag,True,False,v1675425159
+2020-01-01,2020,1,2020Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1650.0,,No caution flag,True,False,v1675425156
+2020-04-01,2020,2,2020Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1190.0,,No caution flag,True,False,v1675425122
+2020-04-01,2020,2,2020Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1400.0,,No caution flag,True,False,v1675425123
+2020-04-01,2020,2,2020Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1360.0,E,Use with caution,True,True,v1938684619
+2020-04-01,2020,2,2020Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1540.0,,No caution flag,True,False,v1675425124
+2020-04-01,2020,2,2020Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,950.0,,No caution flag,True,False,v1675425121
+2020-04-01,2020,2,2020Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1130.0,,No caution flag,True,False,v1675425022
+2020-04-01,2020,2,2020Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,820.0,,No caution flag,True,False,v1938684478
+2020-04-01,2020,2,2020Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1350.0,,No caution flag,True,False,v1675425023
+2020-04-01,2020,2,2020Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,880.0,,No caution flag,True,False,v1938684479
+2020-04-01,2020,2,2020Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1660.0,,No caution flag,True,False,v1675425024
+2020-04-01,2020,2,2020Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,960.0,,No caution flag,True,False,v1938684480
+2020-04-01,2020,2,2020Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,920.0,,No caution flag,True,False,v1675425021
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1550.0,,No caution flag,True,False,v1675424992
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1140.0,,No caution flag,True,False,v1938684436
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1840.0,,No caution flag,True,False,v1675424993
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2180.0,,No caution flag,True,False,v1675424994
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1210.0,,No caution flag,True,False,v1675424991
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,990.0,,No caution flag,True,False,v1675424972
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1140.0,,No caution flag,True,False,v1675424973
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,880.0,,No caution flag,True,False,v1938684409
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1270.0,,No caution flag,True,False,v1675424974
+2020-04-01,2020,2,2020Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,790.0,,No caution flag,True,False,v1675424971
+2020-04-01,2020,2,2020Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1930.0,,No caution flag,True,False,v1675425047
+2020-04-01,2020,2,2020Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1380.0,,No caution flag,True,False,v1938684513
+2020-04-01,2020,2,2020Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2370.0,,No caution flag,True,False,v1675425048
+2020-04-01,2020,2,2020Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1570.0,,No caution flag,True,False,v1938684514
+2020-04-01,2020,2,2020Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2780.0,,No caution flag,True,False,v1675425049
+2020-04-01,2020,2,2020Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1560.0,,No caution flag,True,False,v1675425046
+2020-04-01,2020,2,2020Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1870.0,,No caution flag,True,False,v1675425157
+2020-04-01,2020,2,2020Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1380.0,,No caution flag,True,False,v1938684667
+2020-04-01,2020,2,2020Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2480.0,,No caution flag,True,False,v1675425158
+2020-04-01,2020,2,2020Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1710.0,E,Use with caution,True,True,v1938684668
+2020-04-01,2020,2,2020Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3150.0,,No caution flag,True,False,v1675425159
+2020-04-01,2020,2,2020Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1620.0,,No caution flag,True,False,v1675425156
+2020-07-01,2020,3,2020Q3,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1190.0,,No caution flag,True,False,v1675425122
+2020-07-01,2020,3,2020Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1400.0,,No caution flag,True,False,v1675425123
+2020-07-01,2020,3,2020Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1360.0,,No caution flag,True,False,v1938684619
+2020-07-01,2020,3,2020Q3,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1590.0,,No caution flag,True,False,v1675425124
+2020-07-01,2020,3,2020Q3,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,920.0,,No caution flag,True,False,v1675425121
+2020-07-01,2020,3,2020Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1170.0,,No caution flag,True,False,v1675425022
+2020-07-01,2020,3,2020Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,810.0,,No caution flag,True,False,v1938684478
+2020-07-01,2020,3,2020Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1420.0,,No caution flag,True,False,v1675425023
+2020-07-01,2020,3,2020Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,880.0,,No caution flag,True,False,v1938684479
+2020-07-01,2020,3,2020Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1720.0,,No caution flag,True,False,v1675425024
+2020-07-01,2020,3,2020Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,950.0,E,Use with caution,True,True,v1938684480
+2020-07-01,2020,3,2020Q3,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,940.0,,No caution flag,True,False,v1675425021
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1530.0,,No caution flag,True,False,v1675424992
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1150.0,,No caution flag,True,False,v1938684436
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1830.0,,No caution flag,True,False,v1675424993
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2230.0,,No caution flag,True,False,v1675424994
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1190.0,,No caution flag,True,False,v1675424991
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1050.0,,No caution flag,True,False,v1675424972
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1180.0,,No caution flag,True,False,v1675424973
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,890.0,,No caution flag,True,False,v1938684409
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1260.0,,No caution flag,True,False,v1675424974
+2020-07-01,2020,3,2020Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,790.0,,No caution flag,True,False,v1675424971
+2020-07-01,2020,3,2020Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1860.0,,No caution flag,True,False,v1675425047
+2020-07-01,2020,3,2020Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1390.0,,No caution flag,True,False,v1938684513
+2020-07-01,2020,3,2020Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2310.0,,No caution flag,True,False,v1675425048
+2020-07-01,2020,3,2020Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1590.0,,No caution flag,True,False,v1938684514
+2020-07-01,2020,3,2020Q3,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2780.0,,No caution flag,True,False,v1675425049
+2020-07-01,2020,3,2020Q3,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1510.0,,No caution flag,True,False,v1675425046
+2020-07-01,2020,3,2020Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1850.0,,No caution flag,True,False,v1675425157
+2020-07-01,2020,3,2020Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1380.0,,No caution flag,True,False,v1938684667
+2020-07-01,2020,3,2020Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2430.0,,No caution flag,True,False,v1675425158
+2020-07-01,2020,3,2020Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1680.0,,No caution flag,True,False,v1938684668
+2020-07-01,2020,3,2020Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3150.0,,No caution flag,True,False,v1675425159
+2020-07-01,2020,3,2020Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1600.0,,No caution flag,True,False,v1675425156
+2020-10-01,2020,4,2020Q4,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1170.0,,No caution flag,True,False,v1675425122
+2020-10-01,2020,4,2020Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1380.0,,No caution flag,True,False,v1675425123
+2020-10-01,2020,4,2020Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1340.0,,No caution flag,True,False,v1938684619
+2020-10-01,2020,4,2020Q4,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1590.0,,No caution flag,True,False,v1675425124
+2020-10-01,2020,4,2020Q4,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,910.0,,No caution flag,True,False,v1675425121
+2020-10-01,2020,4,2020Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1140.0,,No caution flag,True,False,v1675425022
+2020-10-01,2020,4,2020Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,810.0,,No caution flag,True,False,v1938684478
+2020-10-01,2020,4,2020Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1390.0,,No caution flag,True,False,v1675425023
+2020-10-01,2020,4,2020Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,880.0,,No caution flag,True,False,v1938684479
+2020-10-01,2020,4,2020Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1730.0,,No caution flag,True,False,v1675425024
+2020-10-01,2020,4,2020Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,950.0,E,Use with caution,True,True,v1938684480
+2020-10-01,2020,4,2020Q4,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,910.0,,No caution flag,True,False,v1675425021
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1500.0,,No caution flag,True,False,v1675424992
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1150.0,E,Use with caution,True,True,v1938684436
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1780.0,,No caution flag,True,False,v1675424993
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2200.0,,No caution flag,True,False,v1675424994
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1190.0,,No caution flag,True,False,v1675424991
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1010.0,,No caution flag,True,False,v1675424972
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1220.0,,No caution flag,True,False,v1675424973
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,900.0,,No caution flag,True,False,v1938684409
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1300.0,,No caution flag,True,False,v1675424974
+2020-10-01,2020,4,2020Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,780.0,,No caution flag,True,False,v1675424971
+2020-10-01,2020,4,2020Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1750.0,,No caution flag,True,False,v1675425047
+2020-10-01,2020,4,2020Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1370.0,,No caution flag,True,False,v1938684513
+2020-10-01,2020,4,2020Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2190.0,,No caution flag,True,False,v1675425048
+2020-10-01,2020,4,2020Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1600.0,,No caution flag,True,False,v1938684514
+2020-10-01,2020,4,2020Q4,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2600.0,,No caution flag,True,False,v1675425049
+2020-10-01,2020,4,2020Q4,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1400.0,,No caution flag,True,False,v1675425046
+2020-10-01,2020,4,2020Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1810.0,,No caution flag,True,False,v1675425157
+2020-10-01,2020,4,2020Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1380.0,,No caution flag,True,False,v1938684667
+2020-10-01,2020,4,2020Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2380.0,,No caution flag,True,False,v1675425158
+2020-10-01,2020,4,2020Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1650.0,,No caution flag,True,False,v1938684668
+2020-10-01,2020,4,2020Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3220.0,,No caution flag,True,False,v1675425159
+2020-10-01,2020,4,2020Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1580.0,,No caution flag,True,False,v1675425156
+2021-01-01,2021,1,2021Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1180.0,,No caution flag,True,False,v1675425122
+2021-01-01,2021,1,2021Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1420.0,,No caution flag,True,False,v1675425123
+2021-01-01,2021,1,2021Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1320.0,,No caution flag,True,False,v1938684619
+2021-01-01,2021,1,2021Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1550.0,,No caution flag,True,False,v1675425124
+2021-01-01,2021,1,2021Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,950.0,,No caution flag,True,False,v1675425121
+2021-01-01,2021,1,2021Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1140.0,,No caution flag,True,False,v1675425022
+2021-01-01,2021,1,2021Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,820.0,,No caution flag,True,False,v1938684478
+2021-01-01,2021,1,2021Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1400.0,,No caution flag,True,False,v1675425023
+2021-01-01,2021,1,2021Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,890.0,,No caution flag,True,False,v1938684479
+2021-01-01,2021,1,2021Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1780.0,,No caution flag,True,False,v1675425024
+2021-01-01,2021,1,2021Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,970.0,,No caution flag,True,False,v1938684480
+2021-01-01,2021,1,2021Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,900.0,,No caution flag,True,False,v1675425021
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1510.0,,No caution flag,True,False,v1675424992
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1160.0,E,Use with caution,True,True,v1938684436
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1770.0,,No caution flag,True,False,v1675424993
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2290.0,,No caution flag,True,False,v1675424994
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1200.0,,No caution flag,True,False,v1675424991
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1020.0,,No caution flag,True,False,v1675424972
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1230.0,,No caution flag,True,False,v1675424973
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,910.0,,No caution flag,True,False,v1938684409
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1370.0,,No caution flag,True,False,v1675424974
+2021-01-01,2021,1,2021Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,770.0,,No caution flag,True,False,v1675424971
+2021-01-01,2021,1,2021Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1720.0,,No caution flag,True,False,v1675425047
+2021-01-01,2021,1,2021Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1370.0,,No caution flag,True,False,v1938684513
+2021-01-01,2021,1,2021Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2140.0,,No caution flag,True,False,v1675425048
+2021-01-01,2021,1,2021Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1620.0,,No caution flag,True,False,v1938684514
+2021-01-01,2021,1,2021Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2540.0,,No caution flag,True,False,v1675425049
+2021-01-01,2021,1,2021Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1390.0,,No caution flag,True,False,v1675425046
+2021-01-01,2021,1,2021Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1840.0,,No caution flag,True,False,v1675425157
+2021-01-01,2021,1,2021Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1390.0,,No caution flag,True,False,v1938684667
+2021-01-01,2021,1,2021Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2410.0,,No caution flag,True,False,v1675425158
+2021-01-01,2021,1,2021Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1630.0,E,Use with caution,True,True,v1938684668
+2021-01-01,2021,1,2021Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3290.0,,No caution flag,True,False,v1675425159
+2021-01-01,2021,1,2021Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1610.0,,No caution flag,True,False,v1675425156
+2021-04-01,2021,2,2021Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1200.0,,No caution flag,True,False,v1675425122
+2021-04-01,2021,2,2021Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1440.0,,No caution flag,True,False,v1675425123
+2021-04-01,2021,2,2021Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1330.0,,No caution flag,True,False,v1938684619
+2021-04-01,2021,2,2021Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1570.0,,No caution flag,True,False,v1675425124
+2021-04-01,2021,2,2021Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,930.0,,No caution flag,True,False,v1675425121
+2021-04-01,2021,2,2021Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1140.0,,No caution flag,True,False,v1675425022
+2021-04-01,2021,2,2021Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,830.0,,No caution flag,True,False,v1938684478
+2021-04-01,2021,2,2021Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1420.0,,No caution flag,True,False,v1675425023
+2021-04-01,2021,2,2021Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,900.0,,No caution flag,True,False,v1938684479
+2021-04-01,2021,2,2021Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1720.0,,No caution flag,True,False,v1675425024
+2021-04-01,2021,2,2021Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,990.0,,No caution flag,True,False,v1938684480
+2021-04-01,2021,2,2021Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,920.0,,No caution flag,True,False,v1675425021
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1550.0,,No caution flag,True,False,v1675424992
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1140.0,,No caution flag,True,False,v1938684436
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1860.0,,No caution flag,True,False,v1675424993
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2220.0,,No caution flag,True,False,v1675424994
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1200.0,,No caution flag,True,False,v1675424991
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1060.0,,No caution flag,True,False,v1675424972
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1240.0,,No caution flag,True,False,v1675424973
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,910.0,,No caution flag,True,False,v1938684409
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1430.0,,No caution flag,True,False,v1675424974
+2021-04-01,2021,2,2021Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,780.0,,No caution flag,True,False,v1675424971
+2021-04-01,2021,2,2021Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1740.0,,No caution flag,True,False,v1675425047
+2021-04-01,2021,2,2021Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1380.0,,No caution flag,True,False,v1938684513
+2021-04-01,2021,2,2021Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2190.0,,No caution flag,True,False,v1675425048
+2021-04-01,2021,2,2021Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1620.0,,No caution flag,True,False,v1938684514
+2021-04-01,2021,2,2021Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2600.0,,No caution flag,True,False,v1675425049
+2021-04-01,2021,2,2021Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1400.0,,No caution flag,True,False,v1675425046
+2021-04-01,2021,2,2021Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1860.0,,No caution flag,True,False,v1675425157
+2021-04-01,2021,2,2021Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1410.0,,No caution flag,True,False,v1938684667
+2021-04-01,2021,2,2021Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2520.0,,No caution flag,True,False,v1675425158
+2021-04-01,2021,2,2021Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1660.0,E,Use with caution,True,True,v1938684668
+2021-04-01,2021,2,2021Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3520.0,,No caution flag,True,False,v1675425159
+2021-04-01,2021,2,2021Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1630.0,,No caution flag,True,False,v1675425156
+2021-07-01,2021,3,2021Q3,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1210.0,,No caution flag,True,False,v1675425122
+2021-07-01,2021,3,2021Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1450.0,,No caution flag,True,False,v1675425123
+2021-07-01,2021,3,2021Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1340.0,,No caution flag,True,False,v1938684619
+2021-07-01,2021,3,2021Q3,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1620.0,,No caution flag,True,False,v1675425124
+2021-07-01,2021,3,2021Q3,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,960.0,,No caution flag,True,False,v1675425121
+2021-07-01,2021,3,2021Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1170.0,,No caution flag,True,False,v1675425022
+2021-07-01,2021,3,2021Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,840.0,,No caution flag,True,False,v1938684478
+2021-07-01,2021,3,2021Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1460.0,,No caution flag,True,False,v1675425023
+2021-07-01,2021,3,2021Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,910.0,,No caution flag,True,False,v1938684479
+2021-07-01,2021,3,2021Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1780.0,,No caution flag,True,False,v1675425024
+2021-07-01,2021,3,2021Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1000.0,,No caution flag,True,False,v1938684480
+2021-07-01,2021,3,2021Q3,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,940.0,,No caution flag,True,False,v1675425021
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1560.0,,No caution flag,True,False,v1675424992
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1150.0,,No caution flag,True,False,v1938684436
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1900.0,,No caution flag,True,False,v1675424993
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2220.0,,No caution flag,True,False,v1675424994
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1230.0,,No caution flag,True,False,v1675424991
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1170.0,,No caution flag,True,False,v1675424972
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1290.0,,No caution flag,True,False,v1675424973
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,920.0,,No caution flag,True,False,v1938684409
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1470.0,,No caution flag,True,False,v1675424974
+2021-07-01,2021,3,2021Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,810.0,,No caution flag,True,False,v1675424971
+2021-07-01,2021,3,2021Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1780.0,,No caution flag,True,False,v1675425047
+2021-07-01,2021,3,2021Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1390.0,,No caution flag,True,False,v1938684513
+2021-07-01,2021,3,2021Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2210.0,,No caution flag,True,False,v1675425048
+2021-07-01,2021,3,2021Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1600.0,,No caution flag,True,False,v1938684514
+2021-07-01,2021,3,2021Q3,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2620.0,,No caution flag,True,False,v1675425049
+2021-07-01,2021,3,2021Q3,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1430.0,,No caution flag,True,False,v1675425046
+2021-07-01,2021,3,2021Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1910.0,,No caution flag,True,False,v1675425157
+2021-07-01,2021,3,2021Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1420.0,,No caution flag,True,False,v1938684667
+2021-07-01,2021,3,2021Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2610.0,,No caution flag,True,False,v1675425158
+2021-07-01,2021,3,2021Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1700.0,,No caution flag,True,False,v1938684668
+2021-07-01,2021,3,2021Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3570.0,,No caution flag,True,False,v1675425159
+2021-07-01,2021,3,2021Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1690.0,,No caution flag,True,False,v1675425156
+2021-10-01,2021,4,2021Q4,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1220.0,,No caution flag,True,False,v1675425122
+2021-10-01,2021,4,2021Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1460.0,,No caution flag,True,False,v1675425123
+2021-10-01,2021,4,2021Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1370.0,E,Use with caution,True,True,v1938684619
+2021-10-01,2021,4,2021Q4,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1580.0,,No caution flag,True,False,v1675425124
+2021-10-01,2021,4,2021Q4,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,950.0,,No caution flag,True,False,v1675425121
+2021-10-01,2021,4,2021Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1210.0,,No caution flag,True,False,v1675425022
+2021-10-01,2021,4,2021Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,850.0,,No caution flag,True,False,v1938684478
+2021-10-01,2021,4,2021Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1530.0,,No caution flag,True,False,v1675425023
+2021-10-01,2021,4,2021Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,930.0,,No caution flag,True,False,v1938684479
+2021-10-01,2021,4,2021Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1810.0,,No caution flag,True,False,v1675425024
+2021-10-01,2021,4,2021Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1030.0,,No caution flag,True,False,v1938684480
+2021-10-01,2021,4,2021Q4,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,950.0,,No caution flag,True,False,v1675425021
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1570.0,,No caution flag,True,False,v1675424992
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1160.0,,No caution flag,True,False,v1938684436
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1900.0,,No caution flag,True,False,v1675424993
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2110.0,,No caution flag,True,False,v1675424994
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1240.0,,No caution flag,True,False,v1675424991
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1210.0,,No caution flag,True,False,v1675424972
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1360.0,,No caution flag,True,False,v1675424973
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,930.0,,No caution flag,True,False,v1938684409
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1480.0,,No caution flag,True,False,v1675424974
+2021-10-01,2021,4,2021Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,930.0,,No caution flag,True,False,v1675424971
+2021-10-01,2021,4,2021Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1830.0,,No caution flag,True,False,v1675425047
+2021-10-01,2021,4,2021Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1400.0,,No caution flag,True,False,v1938684513
+2021-10-01,2021,4,2021Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2280.0,,No caution flag,True,False,v1675425048
+2021-10-01,2021,4,2021Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1600.0,E,Use with caution,True,True,v1938684514
+2021-10-01,2021,4,2021Q4,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2680.0,,No caution flag,True,False,v1675425049
+2021-10-01,2021,4,2021Q4,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1440.0,,No caution flag,True,False,v1675425046
+2021-10-01,2021,4,2021Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,1970.0,,No caution flag,True,False,v1675425157
+2021-10-01,2021,4,2021Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1450.0,,No caution flag,True,False,v1938684667
+2021-10-01,2021,4,2021Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2740.0,,No caution flag,True,False,v1675425158
+2021-10-01,2021,4,2021Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1760.0,,No caution flag,True,False,v1938684668
+2021-10-01,2021,4,2021Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,3720.0,,No caution flag,True,False,v1675425159
+2021-10-01,2021,4,2021Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1710.0,,No caution flag,True,False,v1675425156
+2022-01-01,2022,1,2022Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1250.0,,No caution flag,True,False,v1675425122
+2022-01-01,2022,1,2022Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1500.0,,No caution flag,True,False,v1675425123
+2022-01-01,2022,1,2022Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1380.0,,No caution flag,True,False,v1938684619
+2022-01-01,2022,1,2022Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1680.0,,No caution flag,True,False,v1675425124
+2022-01-01,2022,1,2022Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,960.0,,No caution flag,True,False,v1675425121
+2022-01-01,2022,1,2022Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1220.0,,No caution flag,True,False,v1675425022
+2022-01-01,2022,1,2022Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,860.0,,No caution flag,True,False,v1938684478
+2022-01-01,2022,1,2022Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1530.0,,No caution flag,True,False,v1675425023
+2022-01-01,2022,1,2022Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,950.0,,No caution flag,True,False,v1938684479
+2022-01-01,2022,1,2022Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1910.0,,No caution flag,True,False,v1675425024
+2022-01-01,2022,1,2022Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1040.0,,No caution flag,True,False,v1938684480
+2022-01-01,2022,1,2022Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,980.0,,No caution flag,True,False,v1675425021
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1610.0,,No caution flag,True,False,v1675424992
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1180.0,,No caution flag,True,False,v1938684436
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,1950.0,,No caution flag,True,False,v1675424993
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2260.0,,No caution flag,True,False,v1675424994
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1270.0,,No caution flag,True,False,v1675424991
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1220.0,,No caution flag,True,False,v1675424972
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1410.0,,No caution flag,True,False,v1675424973
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,950.0,,No caution flag,True,False,v1938684409
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1550.0,,No caution flag,True,False,v1675424974
+2022-01-01,2022,1,2022Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,950.0,,No caution flag,True,False,v1675424971
+2022-01-01,2022,1,2022Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1870.0,,No caution flag,True,False,v1675425047
+2022-01-01,2022,1,2022Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1420.0,,No caution flag,True,False,v1938684513
+2022-01-01,2022,1,2022Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2320.0,,No caution flag,True,False,v1675425048
+2022-01-01,2022,1,2022Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1630.0,E,Use with caution,True,True,v1938684514
+2022-01-01,2022,1,2022Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2740.0,,No caution flag,True,False,v1675425049
+2022-01-01,2022,1,2022Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1480.0,,No caution flag,True,False,v1675425046
+2022-01-01,2022,1,2022Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2060.0,,No caution flag,True,False,v1675425157
+2022-01-01,2022,1,2022Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1460.0,,No caution flag,True,False,v1938684667
+2022-01-01,2022,1,2022Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,2830.0,,No caution flag,True,False,v1675425158
+2022-01-01,2022,1,2022Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1790.0,,No caution flag,True,False,v1938684668
+2022-01-01,2022,1,2022Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4050.0,,No caution flag,True,False,v1675425159
+2022-01-01,2022,1,2022Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1760.0,,No caution flag,True,False,v1675425156
+2022-04-01,2022,2,2022Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1290.0,,No caution flag,True,False,v1675425122
+2022-04-01,2022,2,2022Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1560.0,,No caution flag,True,False,v1675425123
+2022-04-01,2022,2,2022Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1390.0,,No caution flag,True,False,v1938684619
+2022-04-01,2022,2,2022Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1790.0,,No caution flag,True,False,v1675425124
+2022-04-01,2022,2,2022Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1070.0,,No caution flag,True,False,v1675425121
+2022-04-01,2022,2,2022Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1240.0,,No caution flag,True,False,v1675425022
+2022-04-01,2022,2,2022Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,860.0,,No caution flag,True,False,v1938684478
+2022-04-01,2022,2,2022Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1550.0,,No caution flag,True,False,v1675425023
+2022-04-01,2022,2,2022Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,960.0,,No caution flag,True,False,v1938684479
+2022-04-01,2022,2,2022Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,1890.0,,No caution flag,True,False,v1675425024
+2022-04-01,2022,2,2022Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1060.0,,No caution flag,True,False,v1938684480
+2022-04-01,2022,2,2022Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1000.0,,No caution flag,True,False,v1675425021
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1640.0,,No caution flag,True,False,v1675424992
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1190.0,,No caution flag,True,False,v1938684436
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2010.0,,No caution flag,True,False,v1675424993
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2390.0,,No caution flag,True,False,v1675424994
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1300.0,,No caution flag,True,False,v1675424991
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1200.0,,No caution flag,True,False,v1675424972
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1430.0,,No caution flag,True,False,v1675424973
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,950.0,,No caution flag,True,False,v1938684409
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1610.0,,No caution flag,True,False,v1675424974
+2022-04-01,2022,2,2022Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,980.0,,No caution flag,True,False,v1675424971
+2022-04-01,2022,2,2022Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,1950.0,,No caution flag,True,False,v1675425047
+2022-04-01,2022,2,2022Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1460.0,,No caution flag,True,False,v1938684513
+2022-04-01,2022,2,2022Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2460.0,,No caution flag,True,False,v1675425048
+2022-04-01,2022,2,2022Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1670.0,,No caution flag,True,False,v1938684514
+2022-04-01,2022,2,2022Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,2930.0,,No caution flag,True,False,v1675425049
+2022-04-01,2022,2,2022Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1550.0,,No caution flag,True,False,v1675425046
+2022-04-01,2022,2,2022Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2190.0,,No caution flag,True,False,v1675425157
+2022-04-01,2022,2,2022Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1480.0,,No caution flag,True,False,v1938684667
+2022-04-01,2022,2,2022Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3020.0,,No caution flag,True,False,v1675425158
+2022-04-01,2022,2,2022Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1830.0,,No caution flag,True,False,v1938684668
+2022-04-01,2022,2,2022Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4370.0,,No caution flag,True,False,v1675425159
+2022-04-01,2022,2,2022Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,1870.0,,No caution flag,True,False,v1675425156
+2022-07-01,2022,3,2022Q3,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1370.0,,No caution flag,True,False,v1675425122
+2022-07-01,2022,3,2022Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1700.0,,No caution flag,True,False,v1675425123
+2022-07-01,2022,3,2022Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1380.0,E,Use with caution,True,True,v1938684619
+2022-07-01,2022,3,2022Q3,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1900.0,,No caution flag,True,False,v1675425124
+2022-07-01,2022,3,2022Q3,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1130.0,,No caution flag,True,False,v1675425121
+2022-07-01,2022,3,2022Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1330.0,,No caution flag,True,False,v1675425022
+2022-07-01,2022,3,2022Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,860.0,,No caution flag,True,False,v1938684478
+2022-07-01,2022,3,2022Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1690.0,,No caution flag,True,False,v1675425023
+2022-07-01,2022,3,2022Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,970.0,,No caution flag,True,False,v1938684479
+2022-07-01,2022,3,2022Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2010.0,,No caution flag,True,False,v1675425024
+2022-07-01,2022,3,2022Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1060.0,,No caution flag,True,False,v1938684480
+2022-07-01,2022,3,2022Q3,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1050.0,,No caution flag,True,False,v1675425021
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1740.0,,No caution flag,True,False,v1675424992
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1190.0,E,Use with caution,True,True,v1938684436
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2080.0,,No caution flag,True,False,v1675424993
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2400.0,,No caution flag,True,False,v1675424994
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1380.0,,No caution flag,True,False,v1675424991
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1360.0,,No caution flag,True,False,v1675424972
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1520.0,,No caution flag,True,False,v1675424973
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,950.0,,No caution flag,True,False,v1938684409
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1640.0,,No caution flag,True,False,v1675424974
+2022-07-01,2022,3,2022Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1010.0,,No caution flag,True,False,v1675424971
+2022-07-01,2022,3,2022Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2100.0,,No caution flag,True,False,v1675425047
+2022-07-01,2022,3,2022Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1490.0,,No caution flag,True,False,v1938684513
+2022-07-01,2022,3,2022Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2640.0,,No caution flag,True,False,v1675425048
+2022-07-01,2022,3,2022Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1690.0,,No caution flag,True,False,v1938684514
+2022-07-01,2022,3,2022Q3,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3130.0,,No caution flag,True,False,v1675425049
+2022-07-01,2022,3,2022Q3,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1640.0,,No caution flag,True,False,v1675425046
+2022-07-01,2022,3,2022Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2400.0,,No caution flag,True,False,v1675425157
+2022-07-01,2022,3,2022Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1470.0,,No caution flag,True,False,v1938684667
+2022-07-01,2022,3,2022Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3350.0,E,Use with caution,True,True,v1675425158
+2022-07-01,2022,3,2022Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1880.0,,No caution flag,True,False,v1938684668
+2022-07-01,2022,3,2022Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4680.0,,No caution flag,True,False,v1675425159
+2022-07-01,2022,3,2022Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2020.0,,No caution flag,True,False,v1675425156
+2022-10-01,2022,4,2022Q4,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1440.0,,No caution flag,True,False,v1675425122
+2022-10-01,2022,4,2022Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1760.0,,No caution flag,True,False,v1675425123
+2022-10-01,2022,4,2022Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1380.0,E,Use with caution,True,True,v1938684619
+2022-10-01,2022,4,2022Q4,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,1930.0,,No caution flag,True,False,v1675425124
+2022-10-01,2022,4,2022Q4,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1180.0,,No caution flag,True,False,v1675425121
+2022-10-01,2022,4,2022Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1370.0,,No caution flag,True,False,v1675425022
+2022-10-01,2022,4,2022Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,850.0,E,Use with caution,True,True,v1938684478
+2022-10-01,2022,4,2022Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1750.0,,No caution flag,True,False,v1675425023
+2022-10-01,2022,4,2022Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,970.0,,No caution flag,True,False,v1938684479
+2022-10-01,2022,4,2022Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2040.0,,No caution flag,True,False,v1675425024
+2022-10-01,2022,4,2022Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1080.0,,No caution flag,True,False,v1938684480
+2022-10-01,2022,4,2022Q4,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1090.0,,No caution flag,True,False,v1675425021
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1760.0,,No caution flag,True,False,v1675424992
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1220.0,,No caution flag,True,False,v1938684436
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2110.0,,No caution flag,True,False,v1675424993
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2330.0,,No caution flag,True,False,v1675424994
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1420.0,,No caution flag,True,False,v1675424991
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1370.0,,No caution flag,True,False,v1675424972
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1540.0,,No caution flag,True,False,v1675424973
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,960.0,E,Use with caution,True,True,v1938684409
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1670.0,,No caution flag,True,False,v1675424974
+2022-10-01,2022,4,2022Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1070.0,,No caution flag,True,False,v1675424971
+2022-10-01,2022,4,2022Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2180.0,,No caution flag,True,False,v1675425047
+2022-10-01,2022,4,2022Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1510.0,,No caution flag,True,False,v1938684513
+2022-10-01,2022,4,2022Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2710.0,,No caution flag,True,False,v1675425048
+2022-10-01,2022,4,2022Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1720.0,,No caution flag,True,False,v1938684514
+2022-10-01,2022,4,2022Q4,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3230.0,,No caution flag,True,False,v1675425049
+2022-10-01,2022,4,2022Q4,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1720.0,,No caution flag,True,False,v1675425046
+2022-10-01,2022,4,2022Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2450.0,,No caution flag,True,False,v1675425157
+2022-10-01,2022,4,2022Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1470.0,,No caution flag,True,False,v1938684667
+2022-10-01,2022,4,2022Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3400.0,,No caution flag,True,False,v1675425158
+2022-10-01,2022,4,2022Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1920.0,,No caution flag,True,False,v1938684668
+2022-10-01,2022,4,2022Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,5020.0,E,Use with caution,True,True,v1675425159
+2022-10-01,2022,4,2022Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2150.0,,No caution flag,True,False,v1675425156
+2023-01-01,2023,1,2023Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1500.0,,No caution flag,True,False,v1675425122
+2023-01-01,2023,1,2023Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1790.0,,No caution flag,True,False,v1675425123
+2023-01-01,2023,1,2023Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1400.0,E,Use with caution,True,True,v1938684619
+2023-01-01,2023,1,2023Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2010.0,,No caution flag,True,False,v1675425124
+2023-01-01,2023,1,2023Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1280.0,,No caution flag,True,False,v1675425121
+2023-01-01,2023,1,2023Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1410.0,,No caution flag,True,False,v1675425022
+2023-01-01,2023,1,2023Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,870.0,E,Use with caution,True,True,v1938684478
+2023-01-01,2023,1,2023Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1770.0,,No caution flag,True,False,v1675425023
+2023-01-01,2023,1,2023Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,990.0,,No caution flag,True,False,v1938684479
+2023-01-01,2023,1,2023Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2190.0,,No caution flag,True,False,v1675425024
+2023-01-01,2023,1,2023Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1110.0,,No caution flag,True,False,v1938684480
+2023-01-01,2023,1,2023Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1170.0,,No caution flag,True,False,v1675425021
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1770.0,,No caution flag,True,False,v1675424992
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1260.0,,No caution flag,True,False,v1938684436
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2110.0,,No caution flag,True,False,v1675424993
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2490.0,,No caution flag,True,False,v1675424994
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1480.0,,No caution flag,True,False,v1675424991
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1390.0,,No caution flag,True,False,v1675424972
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1610.0,,No caution flag,True,False,v1675424973
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,950.0,E,Use with caution,True,True,v1938684409
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1720.0,,No caution flag,True,False,v1675424974
+2023-01-01,2023,1,2023Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1070.0,,No caution flag,True,False,v1675424971
+2023-01-01,2023,1,2023Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2210.0,,No caution flag,True,False,v1675425047
+2023-01-01,2023,1,2023Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1520.0,,No caution flag,True,False,v1938684513
+2023-01-01,2023,1,2023Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2730.0,,No caution flag,True,False,v1675425048
+2023-01-01,2023,1,2023Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1740.0,,No caution flag,True,False,v1938684514
+2023-01-01,2023,1,2023Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3230.0,,No caution flag,True,False,v1675425049
+2023-01-01,2023,1,2023Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1760.0,,No caution flag,True,False,v1675425046
+2023-01-01,2023,1,2023Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2440.0,,No caution flag,True,False,v1675425157
+2023-01-01,2023,1,2023Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1490.0,,No caution flag,True,False,v1938684667
+2023-01-01,2023,1,2023Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3300.0,,No caution flag,True,False,v1675425158
+2023-01-01,2023,1,2023Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1960.0,,No caution flag,True,False,v1938684668
+2023-01-01,2023,1,2023Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4620.0,,No caution flag,True,False,v1675425159
+2023-01-01,2023,1,2023Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2120.0,,No caution flag,True,False,v1675425156
+2023-04-01,2023,2,2023Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1520.0,,No caution flag,True,False,v1675425122
+2023-04-01,2023,2,2023Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1840.0,,No caution flag,True,False,v1675425123
+2023-04-01,2023,2,2023Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1430.0,E,Use with caution,True,True,v1938684619
+2023-04-01,2023,2,2023Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2140.0,,No caution flag,True,False,v1675425124
+2023-04-01,2023,2,2023Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1380.0,E,Use with caution,True,True,v1675425121
+2023-04-01,2023,2,2023Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1400.0,,No caution flag,True,False,v1675425022
+2023-04-01,2023,2,2023Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,880.0,E,Use with caution,True,True,v1938684478
+2023-04-01,2023,2,2023Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1780.0,,No caution flag,True,False,v1675425023
+2023-04-01,2023,2,2023Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1000.0,,No caution flag,True,False,v1938684479
+2023-04-01,2023,2,2023Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2150.0,,No caution flag,True,False,v1675425024
+2023-04-01,2023,2,2023Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1140.0,,No caution flag,True,False,v1938684480
+2023-04-01,2023,2,2023Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1110.0,,No caution flag,True,False,v1675425021
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1810.0,,No caution flag,True,False,v1675424992
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1300.0,,No caution flag,True,False,v1938684436
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2200.0,,No caution flag,True,False,v1675424993
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2530.0,,No caution flag,True,False,v1675424994
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1480.0,,No caution flag,True,False,v1675424991
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1370.0,,No caution flag,True,False,v1675424972
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1590.0,,No caution flag,True,False,v1675424973
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,950.0,E,Use with caution,True,True,v1938684409
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1740.0,,No caution flag,True,False,v1675424974
+2023-04-01,2023,2,2023Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1080.0,,No caution flag,True,False,v1675424971
+2023-04-01,2023,2,2023Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2280.0,,No caution flag,True,False,v1675425047
+2023-04-01,2023,2,2023Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1540.0,,No caution flag,True,False,v1938684513
+2023-04-01,2023,2,2023Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2880.0,,No caution flag,True,False,v1675425048
+2023-04-01,2023,2,2023Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1770.0,,No caution flag,True,False,v1938684514
+2023-04-01,2023,2,2023Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3470.0,,No caution flag,True,False,v1675425049
+2023-04-01,2023,2,2023Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1830.0,,No caution flag,True,False,v1675425046
+2023-04-01,2023,2,2023Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2520.0,,No caution flag,True,False,v1675425157
+2023-04-01,2023,2,2023Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1530.0,,No caution flag,True,False,v1938684667
+2023-04-01,2023,2,2023Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3470.0,,No caution flag,True,False,v1675425158
+2023-04-01,2023,2,2023Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,1990.0,,No caution flag,True,False,v1938684668
+2023-04-01,2023,2,2023Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,5220.0,E,Use with caution,True,True,v1675425159
+2023-04-01,2023,2,2023Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2190.0,,No caution flag,True,False,v1675425156
+2023-07-01,2023,3,2023Q3,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1660.0,,No caution flag,True,False,v1675425122
+2023-07-01,2023,3,2023Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,2010.0,,No caution flag,True,False,v1675425123
+2023-07-01,2023,3,2023Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1480.0,E,Use with caution,True,True,v1938684619
+2023-07-01,2023,3,2023Q3,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2350.0,,No caution flag,True,False,v1675425124
+2023-07-01,2023,3,2023Q3,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1310.0,,No caution flag,True,False,v1675425121
+2023-07-01,2023,3,2023Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1480.0,,No caution flag,True,False,v1675425022
+2023-07-01,2023,3,2023Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,900.0,E,Use with caution,True,True,v1938684478
+2023-07-01,2023,3,2023Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1880.0,,No caution flag,True,False,v1675425023
+2023-07-01,2023,3,2023Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1010.0,E,Use with caution,True,True,v1938684479
+2023-07-01,2023,3,2023Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2260.0,,No caution flag,True,False,v1675425024
+2023-07-01,2023,3,2023Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1170.0,,No caution flag,True,False,v1938684480
+2023-07-01,2023,3,2023Q3,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1190.0,,No caution flag,True,False,v1675425021
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1800.0,,No caution flag,True,False,v1675424992
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1300.0,,No caution flag,True,False,v1938684436
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2200.0,,No caution flag,True,False,v1675424993
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2600.0,,No caution flag,True,False,v1675424994
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1440.0,,No caution flag,True,False,v1675424991
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1430.0,,No caution flag,True,False,v1675424972
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1620.0,,No caution flag,True,False,v1675424973
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,970.0,E,Use with caution,True,True,v1938684409
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1820.0,,No caution flag,True,False,v1675424974
+2023-07-01,2023,3,2023Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1100.0,,No caution flag,True,False,v1675424971
+2023-07-01,2023,3,2023Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2320.0,,No caution flag,True,False,v1675425047
+2023-07-01,2023,3,2023Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1580.0,,No caution flag,True,False,v1938684513
+2023-07-01,2023,3,2023Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2920.0,,No caution flag,True,False,v1675425048
+2023-07-01,2023,3,2023Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1800.0,,No caution flag,True,False,v1938684514
+2023-07-01,2023,3,2023Q3,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3490.0,,No caution flag,True,False,v1675425049
+2023-07-01,2023,3,2023Q3,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1870.0,,No caution flag,True,False,v1675425046
+2023-07-01,2023,3,2023Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2640.0,,No caution flag,True,False,v1675425157
+2023-07-01,2023,3,2023Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1550.0,,No caution flag,True,False,v1938684667
+2023-07-01,2023,3,2023Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3580.0,,No caution flag,True,False,v1675425158
+2023-07-01,2023,3,2023Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2030.0,,No caution flag,True,False,v1938684668
+2023-07-01,2023,3,2023Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4950.0,,No caution flag,True,False,v1675425159
+2023-07-01,2023,3,2023Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2340.0,,No caution flag,True,False,v1675425156
+2023-10-01,2023,4,2023Q4,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1770.0,,No caution flag,True,False,v1675425122
+2023-10-01,2023,4,2023Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,2130.0,,No caution flag,True,False,v1675425123
+2023-10-01,2023,4,2023Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1540.0,,No caution flag,True,False,v1938684619
+2023-10-01,2023,4,2023Q4,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2350.0,,No caution flag,True,False,v1675425124
+2023-10-01,2023,4,2023Q4,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1380.0,,No caution flag,True,False,v1675425121
+2023-10-01,2023,4,2023Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1520.0,,No caution flag,True,False,v1675425022
+2023-10-01,2023,4,2023Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,900.0,E,Use with caution,True,True,v1938684478
+2023-10-01,2023,4,2023Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1920.0,,No caution flag,True,False,v1675425023
+2023-10-01,2023,4,2023Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1040.0,E,Use with caution,True,True,v1938684479
+2023-10-01,2023,4,2023Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2360.0,,No caution flag,True,False,v1675425024
+2023-10-01,2023,4,2023Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1180.0,,No caution flag,True,False,v1938684480
+2023-10-01,2023,4,2023Q4,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1250.0,,No caution flag,True,False,v1675425021
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1870.0,,No caution flag,True,False,v1675424992
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1310.0,,No caution flag,True,False,v1938684436
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2260.0,,No caution flag,True,False,v1675424993
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2620.0,,No caution flag,True,False,v1675424994
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1510.0,,No caution flag,True,False,v1675424991
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1490.0,,No caution flag,True,False,v1675424972
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1670.0,,No caution flag,True,False,v1675424973
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1020.0,E,Use with caution,True,True,v1938684409
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1870.0,,No caution flag,True,False,v1675424974
+2023-10-01,2023,4,2023Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1180.0,,No caution flag,True,False,v1675424971
+2023-10-01,2023,4,2023Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2340.0,,No caution flag,True,False,v1675425047
+2023-10-01,2023,4,2023Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1640.0,,No caution flag,True,False,v1938684513
+2023-10-01,2023,4,2023Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2920.0,,No caution flag,True,False,v1675425048
+2023-10-01,2023,4,2023Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1840.0,,No caution flag,True,False,v1938684514
+2023-10-01,2023,4,2023Q4,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3660.0,,No caution flag,True,False,v1675425049
+2023-10-01,2023,4,2023Q4,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1910.0,,No caution flag,True,False,v1675425046
+2023-10-01,2023,4,2023Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2560.0,,No caution flag,True,False,v1675425157
+2023-10-01,2023,4,2023Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1570.0,,No caution flag,True,False,v1938684667
+2023-10-01,2023,4,2023Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3510.0,,No caution flag,True,False,v1675425158
+2023-10-01,2023,4,2023Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2080.0,,No caution flag,True,False,v1938684668
+2023-10-01,2023,4,2023Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4830.0,,No caution flag,True,False,v1675425159
+2023-10-01,2023,4,2023Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2280.0,,No caution flag,True,False,v1675425156
+2024-01-01,2024,1,2024Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1740.0,,No caution flag,True,False,v1675425122
+2024-01-01,2024,1,2024Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,2090.0,,No caution flag,True,False,v1675425123
+2024-01-01,2024,1,2024Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1600.0,,No caution flag,True,False,v1938684619
+2024-01-01,2024,1,2024Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2410.0,,No caution flag,True,False,v1675425124
+2024-01-01,2024,1,2024Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1420.0,,No caution flag,True,False,v1675425121
+2024-01-01,2024,1,2024Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1540.0,,No caution flag,True,False,v1675425022
+2024-01-01,2024,1,2024Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,920.0,E,Use with caution,True,True,v1938684478
+2024-01-01,2024,1,2024Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1940.0,,No caution flag,True,False,v1675425023
+2024-01-01,2024,1,2024Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1060.0,,No caution flag,True,False,v1938684479
+2024-01-01,2024,1,2024Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2450.0,,No caution flag,True,False,v1675425024
+2024-01-01,2024,1,2024Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1180.0,,No caution flag,True,False,v1938684480
+2024-01-01,2024,1,2024Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1280.0,,No caution flag,True,False,v1675425021
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1890.0,,No caution flag,True,False,v1675424992
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1320.0,E,Use with caution,True,True,v1938684436
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2290.0,,No caution flag,True,False,v1675424993
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2800.0,,No caution flag,True,False,v1675424994
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1510.0,,No caution flag,True,False,v1675424991
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1530.0,,No caution flag,True,False,v1675424972
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1750.0,,No caution flag,True,False,v1675424973
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1070.0,E,Use with caution,True,True,v1938684409
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1890.0,,No caution flag,True,False,v1675424974
+2024-01-01,2024,1,2024Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1180.0,,No caution flag,True,False,v1675424971
+2024-01-01,2024,1,2024Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2290.0,,No caution flag,True,False,v1675425047
+2024-01-01,2024,1,2024Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1700.0,E,Use with caution,True,True,v1938684513
+2024-01-01,2024,1,2024Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2850.0,,No caution flag,True,False,v1675425048
+2024-01-01,2024,1,2024Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1890.0,,No caution flag,True,False,v1938684514
+2024-01-01,2024,1,2024Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3520.0,,No caution flag,True,False,v1675425049
+2024-01-01,2024,1,2024Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1880.0,,No caution flag,True,False,v1675425046
+2024-01-01,2024,1,2024Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2530.0,,No caution flag,True,False,v1675425157
+2024-01-01,2024,1,2024Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1600.0,,No caution flag,True,False,v1938684667
+2024-01-01,2024,1,2024Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3440.0,,No caution flag,True,False,v1675425158
+2024-01-01,2024,1,2024Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2090.0,,No caution flag,True,False,v1938684668
+2024-01-01,2024,1,2024Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4850.0,,No caution flag,True,False,v1675425159
+2024-01-01,2024,1,2024Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2230.0,,No caution flag,True,False,v1675425156
+2024-04-01,2024,2,2024Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1760.0,,No caution flag,True,False,v1675425122
+2024-04-01,2024,2,2024Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,2150.0,,No caution flag,True,False,v1675425123
+2024-04-01,2024,2,2024Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1670.0,,No caution flag,True,False,v1938684619
+2024-04-01,2024,2,2024Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2380.0,,No caution flag,True,False,v1675425124
+2024-04-01,2024,2,2024Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1370.0,,No caution flag,True,False,v1675425121
+2024-04-01,2024,2,2024Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1540.0,,No caution flag,True,False,v1675425022
+2024-04-01,2024,2,2024Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,970.0,,No caution flag,True,False,v1938684478
+2024-04-01,2024,2,2024Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1890.0,,No caution flag,True,False,v1675425023
+2024-04-01,2024,2,2024Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1090.0,,No caution flag,True,False,v1938684479
+2024-04-01,2024,2,2024Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2320.0,,No caution flag,True,False,v1675425024
+2024-04-01,2024,2,2024Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1200.0,,No caution flag,True,False,v1938684480
+2024-04-01,2024,2,2024Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1290.0,,No caution flag,True,False,v1675425021
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1960.0,,No caution flag,True,False,v1675424992
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1360.0,,No caution flag,True,False,v1938684436
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2400.0,,No caution flag,True,False,v1675424993
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2810.0,,No caution flag,True,False,v1675424994
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1580.0,,No caution flag,True,False,v1675424991
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1510.0,,No caution flag,True,False,v1675424972
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1760.0,,No caution flag,True,False,v1675424973
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1120.0,,No caution flag,True,False,v1938684409
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1960.0,,No caution flag,True,False,v1675424974
+2024-04-01,2024,2,2024Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1180.0,,No caution flag,True,False,v1675424971
+2024-04-01,2024,2,2024Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2280.0,,No caution flag,True,False,v1675425047
+2024-04-01,2024,2,2024Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1730.0,E,Use with caution,True,True,v1938684513
+2024-04-01,2024,2,2024Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2830.0,,No caution flag,True,False,v1675425048
+2024-04-01,2024,2,2024Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1940.0,,No caution flag,True,False,v1938684514
+2024-04-01,2024,2,2024Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3520.0,,No caution flag,True,False,v1675425049
+2024-04-01,2024,2,2024Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1880.0,,No caution flag,True,False,v1675425046
+2024-04-01,2024,2,2024Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2520.0,,No caution flag,True,False,v1675425157
+2024-04-01,2024,2,2024Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1630.0,,No caution flag,True,False,v1938684667
+2024-04-01,2024,2,2024Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3360.0,,No caution flag,True,False,v1675425158
+2024-04-01,2024,2,2024Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2140.0,,No caution flag,True,False,v1938684668
+2024-04-01,2024,2,2024Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4680.0,,No caution flag,True,False,v1675425159
+2024-04-01,2024,2,2024Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2230.0,,No caution flag,True,False,v1675425156
+2024-07-01,2024,3,2024Q3,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1720.0,,No caution flag,True,False,v1675425122
+2024-07-01,2024,3,2024Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,2050.0,,No caution flag,True,False,v1675425123
+2024-07-01,2024,3,2024Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1740.0,E,Use with caution,True,True,v1938684619
+2024-07-01,2024,3,2024Q3,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2320.0,,No caution flag,True,False,v1675425124
+2024-07-01,2024,3,2024Q3,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1470.0,,No caution flag,True,False,v1675425121
+2024-07-01,2024,3,2024Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1570.0,,No caution flag,True,False,v1675425022
+2024-07-01,2024,3,2024Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1010.0,,No caution flag,True,False,v1938684478
+2024-07-01,2024,3,2024Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1950.0,,No caution flag,True,False,v1675425023
+2024-07-01,2024,3,2024Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1130.0,,No caution flag,True,False,v1938684479
+2024-07-01,2024,3,2024Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2330.0,,No caution flag,True,False,v1675425024
+2024-07-01,2024,3,2024Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1240.0,,No caution flag,True,False,v1938684480
+2024-07-01,2024,3,2024Q3,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1290.0,,No caution flag,True,False,v1675425021
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1960.0,,No caution flag,True,False,v1675424992
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1420.0,,No caution flag,True,False,v1938684436
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2440.0,,No caution flag,True,False,v1675424993
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2840.0,,No caution flag,True,False,v1675424994
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1650.0,,No caution flag,True,False,v1675424991
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1520.0,,No caution flag,True,False,v1675424972
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1750.0,,No caution flag,True,False,v1675424973
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1160.0,,No caution flag,True,False,v1938684409
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1910.0,,No caution flag,True,False,v1675424974
+2024-07-01,2024,3,2024Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1260.0,E,Use with caution,True,True,v1675424971
+2024-07-01,2024,3,2024Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2270.0,,No caution flag,True,False,v1675425047
+2024-07-01,2024,3,2024Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1740.0,E,Use with caution,True,True,v1938684513
+2024-07-01,2024,3,2024Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2830.0,,No caution flag,True,False,v1675425048
+2024-07-01,2024,3,2024Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,1980.0,,No caution flag,True,False,v1938684514
+2024-07-01,2024,3,2024Q3,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3510.0,,No caution flag,True,False,v1675425049
+2024-07-01,2024,3,2024Q3,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1890.0,,No caution flag,True,False,v1675425046
+2024-07-01,2024,3,2024Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2510.0,,No caution flag,True,False,v1675425157
+2024-07-01,2024,3,2024Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1660.0,,No caution flag,True,False,v1938684667
+2024-07-01,2024,3,2024Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3390.0,,No caution flag,True,False,v1675425158
+2024-07-01,2024,3,2024Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2220.0,,No caution flag,True,False,v1938684668
+2024-07-01,2024,3,2024Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4650.0,,No caution flag,True,False,v1675425159
+2024-07-01,2024,3,2024Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2200.0,,No caution flag,True,False,v1675425156
+2024-10-01,2024,4,2024Q4,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1630.0,,No caution flag,True,False,v1675425122
+2024-10-01,2024,4,2024Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1950.0,,No caution flag,True,False,v1675425123
+2024-10-01,2024,4,2024Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1790.0,E,Use with caution,True,True,v1938684619
+2024-10-01,2024,4,2024Q4,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2230.0,,No caution flag,True,False,v1675425124
+2024-10-01,2024,4,2024Q4,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1430.0,,No caution flag,True,False,v1675425121
+2024-10-01,2024,4,2024Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1550.0,,No caution flag,True,False,v1675425022
+2024-10-01,2024,4,2024Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1020.0,,No caution flag,True,False,v1938684478
+2024-10-01,2024,4,2024Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1930.0,,No caution flag,True,False,v1675425023
+2024-10-01,2024,4,2024Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1170.0,,No caution flag,True,False,v1938684479
+2024-10-01,2024,4,2024Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2350.0,,No caution flag,True,False,v1675425024
+2024-10-01,2024,4,2024Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1270.0,,No caution flag,True,False,v1938684480
+2024-10-01,2024,4,2024Q4,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1310.0,,No caution flag,True,False,v1675425021
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1970.0,,No caution flag,True,False,v1675424992
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1460.0,,No caution flag,True,False,v1938684436
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2470.0,,No caution flag,True,False,v1675424993
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2830.0,,No caution flag,True,False,v1675424994
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1610.0,,No caution flag,True,False,v1675424991
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1580.0,,No caution flag,True,False,v1675424972
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1770.0,,No caution flag,True,False,v1675424973
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1190.0,,No caution flag,True,False,v1938684409
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1850.0,,No caution flag,True,False,v1675424974
+2024-10-01,2024,4,2024Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1110.0,,No caution flag,True,False,v1675424971
+2024-10-01,2024,4,2024Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2210.0,,No caution flag,True,False,v1675425047
+2024-10-01,2024,4,2024Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1740.0,,No caution flag,True,False,v1938684513
+2024-10-01,2024,4,2024Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2740.0,,No caution flag,True,False,v1675425048
+2024-10-01,2024,4,2024Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,2010.0,,No caution flag,True,False,v1938684514
+2024-10-01,2024,4,2024Q4,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3440.0,,No caution flag,True,False,v1675425049
+2024-10-01,2024,4,2024Q4,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1830.0,,No caution flag,True,False,v1675425046
+2024-10-01,2024,4,2024Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2450.0,,No caution flag,True,False,v1675425157
+2024-10-01,2024,4,2024Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1700.0,,No caution flag,True,False,v1938684667
+2024-10-01,2024,4,2024Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3250.0,,No caution flag,True,False,v1675425158
+2024-10-01,2024,4,2024Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2320.0,E,Use with caution,True,True,v1938684668
+2024-10-01,2024,4,2024Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4680.0,,No caution flag,True,False,v1675425159
+2024-10-01,2024,4,2024Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2150.0,,No caution flag,True,False,v1675425156
+2025-01-01,2025,1,2025Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1630.0,,No caution flag,True,False,v1675425122
+2025-01-01,2025,1,2025Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1920.0,,No caution flag,True,False,v1675425123
+2025-01-01,2025,1,2025Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1790.0,,No caution flag,True,False,v1938684619
+2025-01-01,2025,1,2025Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2190.0,,No caution flag,True,False,v1675425124
+2025-01-01,2025,1,2025Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1410.0,,No caution flag,True,False,v1675425121
+2025-01-01,2025,1,2025Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1540.0,,No caution flag,True,False,v1675425022
+2025-01-01,2025,1,2025Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1020.0,,No caution flag,True,False,v1938684478
+2025-01-01,2025,1,2025Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1930.0,,No caution flag,True,False,v1675425023
+2025-01-01,2025,1,2025Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1190.0,,No caution flag,True,False,v1938684479
+2025-01-01,2025,1,2025Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2420.0,,No caution flag,True,False,v1675425024
+2025-01-01,2025,1,2025Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1260.0,,No caution flag,True,False,v1938684480
+2025-01-01,2025,1,2025Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1290.0,,No caution flag,True,False,v1675425021
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,2010.0,,No caution flag,True,False,v1675424992
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1480.0,,No caution flag,True,False,v1938684436
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2490.0,,No caution flag,True,False,v1675424993
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2920.0,,No caution flag,True,False,v1675424994
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1640.0,,No caution flag,True,False,v1675424991
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1520.0,,No caution flag,True,False,v1675424972
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1680.0,E,Use with caution,True,True,v1675424973
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1220.0,,No caution flag,True,False,v1938684409
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1990.0,,No caution flag,True,False,v1675424974
+2025-01-01,2025,1,2025Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1080.0,,No caution flag,True,False,v1675424971
+2025-01-01,2025,1,2025Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2170.0,,No caution flag,True,False,v1675425047
+2025-01-01,2025,1,2025Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1750.0,,No caution flag,True,False,v1938684513
+2025-01-01,2025,1,2025Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2690.0,,No caution flag,True,False,v1675425048
+2025-01-01,2025,1,2025Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,2060.0,,No caution flag,True,False,v1938684514
+2025-01-01,2025,1,2025Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3320.0,,No caution flag,True,False,v1675425049
+2025-01-01,2025,1,2025Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1800.0,,No caution flag,True,False,v1675425046
+2025-01-01,2025,1,2025Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2380.0,,No caution flag,True,False,v1675425157
+2025-01-01,2025,1,2025Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1740.0,,No caution flag,True,False,v1938684667
+2025-01-01,2025,1,2025Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3170.0,,No caution flag,True,False,v1675425158
+2025-01-01,2025,1,2025Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2330.0,,No caution flag,True,False,v1938684668
+2025-01-01,2025,1,2025Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4320.0,,No caution flag,True,False,v1675425159
+2025-01-01,2025,1,2025Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2120.0,,No caution flag,True,False,v1675425156
+2025-04-01,2025,2,2025Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1650.0,E,Use with caution,True,True,v1675425122
+2025-04-01,2025,2,2025Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,2020.0,E,Use with caution,True,True,v1675425123
+2025-04-01,2025,2,2025Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1780.0,,No caution flag,True,False,v1938684619
+2025-04-01,2025,2,2025Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,,..,Unavailable for this period,False,False,v1675425124
+2025-04-01,2025,2,2025Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,,..,Unavailable for this period,False,False,v1675425121
+2025-04-01,2025,2,2025Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1530.0,E,Use with caution,True,True,v1675425022
+2025-04-01,2025,2,2025Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1060.0,,No caution flag,True,False,v1938684478
+2025-04-01,2025,2,2025Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1920.0,E,Use with caution,True,True,v1675425023
+2025-04-01,2025,2,2025Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1210.0,,No caution flag,True,False,v1938684479
+2025-04-01,2025,2,2025Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2400.0,E,Use with caution,True,True,v1675425024
+2025-04-01,2025,2,2025Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1260.0,E,Use with caution,True,True,v1938684480
+2025-04-01,2025,2,2025Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1310.0,E,Use with caution,True,True,v1675425021
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1950.0,E,Use with caution,True,True,v1675424992
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1510.0,,No caution flag,True,False,v1938684436
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2430.0,E,Use with caution,True,True,v1675424993
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2870.0,E,Use with caution,True,True,v1675424994
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1610.0,E,Use with caution,True,True,v1675424991
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1490.0,E,Use with caution,True,True,v1675424972
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,,F,Too unreliable to publish,False,False,v1675424973
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1260.0,,No caution flag,True,False,v1938684409
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1940.0,E,Use with caution,True,True,v1675424974
+2025-04-01,2025,2,2025Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,,F,Too unreliable to publish,False,False,v1675424971
+2025-04-01,2025,2,2025Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2150.0,E,Use with caution,True,True,v1675425047
+2025-04-01,2025,2,2025Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1750.0,,No caution flag,True,False,v1938684513
+2025-04-01,2025,2,2025Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2670.0,E,Use with caution,True,True,v1675425048
+2025-04-01,2025,2,2025Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,2090.0,,No caution flag,True,False,v1938684514
+2025-04-01,2025,2,2025Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3350.0,E,Use with caution,True,True,v1675425049
+2025-04-01,2025,2,2025Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1810.0,E,Use with caution,True,True,v1675425046
+2025-04-01,2025,2,2025Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2380.0,E,Use with caution,True,True,v1675425157
+2025-04-01,2025,2,2025Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1800.0,,No caution flag,True,False,v1938684667
+2025-04-01,2025,2,2025Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3160.0,E,Use with caution,True,True,v1675425158
+2025-04-01,2025,2,2025Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2300.0,,No caution flag,True,False,v1938684668
+2025-04-01,2025,2,2025Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4330.0,E,Use with caution,True,True,v1675425159
+2025-04-01,2025,2,2025Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2110.0,E,Use with caution,True,True,v1675425156
+2025-07-01,2025,3,2025Q3,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1630.0,E,Use with caution,True,True,v1675425122
+2025-07-01,2025,3,2025Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,2010.0,E,Use with caution,True,True,v1675425123
+2025-07-01,2025,3,2025Q3,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1810.0,,No caution flag,True,False,v1938684619
+2025-07-01,2025,3,2025Q3,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,,F,Too unreliable to publish,False,False,v1675425124
+2025-07-01,2025,3,2025Q3,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,,F,Too unreliable to publish,False,False,v1675425121
+2025-07-01,2025,3,2025Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1550.0,,No caution flag,True,False,v1675425022
+2025-07-01,2025,3,2025Q3,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1130.0,E,Use with caution,True,True,v1938684478
+2025-07-01,2025,3,2025Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1930.0,,No caution flag,True,False,v1675425023
+2025-07-01,2025,3,2025Q3,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1240.0,,No caution flag,True,False,v1938684479
+2025-07-01,2025,3,2025Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2370.0,,No caution flag,True,False,v1675425024
+2025-07-01,2025,3,2025Q3,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1310.0,,No caution flag,True,False,v1938684480
+2025-07-01,2025,3,2025Q3,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1320.0,,No caution flag,True,False,v1675425021
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1920.0,,No caution flag,True,False,v1675424992
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1530.0,,No caution flag,True,False,v1938684436
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2400.0,,No caution flag,True,False,v1675424993
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2820.0,,No caution flag,True,False,v1675424994
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1570.0,,No caution flag,True,False,v1675424991
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1460.0,,No caution flag,True,False,v1675424972
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1730.0,,No caution flag,True,False,v1675424973
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1320.0,E,Use with caution,True,True,v1938684409
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1890.0,,No caution flag,True,False,v1675424974
+2025-07-01,2025,3,2025Q3,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1160.0,E,Use with caution,True,True,v1675424971
+2025-07-01,2025,3,2025Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2160.0,,No caution flag,True,False,v1675425047
+2025-07-01,2025,3,2025Q3,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1780.0,,No caution flag,True,False,v1938684513
+2025-07-01,2025,3,2025Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2720.0,,No caution flag,True,False,v1675425048
+2025-07-01,2025,3,2025Q3,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,2120.0,,No caution flag,True,False,v1938684514
+2025-07-01,2025,3,2025Q3,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3370.0,,No caution flag,True,False,v1675425049
+2025-07-01,2025,3,2025Q3,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1810.0,,No caution flag,True,False,v1675425046
+2025-07-01,2025,3,2025Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2390.0,,No caution flag,True,False,v1675425157
+2025-07-01,2025,3,2025Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1830.0,,No caution flag,True,False,v1938684667
+2025-07-01,2025,3,2025Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3190.0,,No caution flag,True,False,v1675425158
+2025-07-01,2025,3,2025Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2310.0,,No caution flag,True,False,v1938684668
+2025-07-01,2025,3,2025Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4340.0,,No caution flag,True,False,v1675425159
+2025-07-01,2025,3,2025Q3,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2100.0,,No caution flag,True,False,v1675425156
+2025-10-01,2025,4,2025Q4,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1590.0,,No caution flag,True,False,v1675425122
+2025-10-01,2025,4,2025Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1930.0,,No caution flag,True,False,v1675425123
+2025-10-01,2025,4,2025Q4,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1880.0,,No caution flag,True,False,v1938684619
+2025-10-01,2025,4,2025Q4,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2150.0,,No caution flag,True,False,v1675425124
+2025-10-01,2025,4,2025Q4,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1380.0,,No caution flag,True,False,v1675425121
+2025-10-01,2025,4,2025Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1550.0,,No caution flag,True,False,v1675425022
+2025-10-01,2025,4,2025Q4,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1180.0,E,Use with caution,True,True,v1938684478
+2025-10-01,2025,4,2025Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1920.0,,No caution flag,True,False,v1675425023
+2025-10-01,2025,4,2025Q4,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1290.0,,No caution flag,True,False,v1938684479
+2025-10-01,2025,4,2025Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2380.0,,No caution flag,True,False,v1675425024
+2025-10-01,2025,4,2025Q4,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1380.0,,No caution flag,True,False,v1938684480
+2025-10-01,2025,4,2025Q4,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1290.0,,No caution flag,True,False,v1675425021
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1900.0,,No caution flag,True,False,v1675424992
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1570.0,,No caution flag,True,False,v1938684436
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2390.0,,No caution flag,True,False,v1675424993
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2750.0,,No caution flag,True,False,v1675424994
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1530.0,,No caution flag,True,False,v1675424991
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1450.0,,No caution flag,True,False,v1675424972
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1660.0,,No caution flag,True,False,v1675424973
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1340.0,,No caution flag,True,False,v1938684409
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1950.0,,No caution flag,True,False,v1675424974
+2025-10-01,2025,4,2025Q4,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1140.0,,No caution flag,True,False,v1675424971
+2025-10-01,2025,4,2025Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2130.0,,No caution flag,True,False,v1675425047
+2025-10-01,2025,4,2025Q4,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1800.0,,No caution flag,True,False,v1938684513
+2025-10-01,2025,4,2025Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2670.0,,No caution flag,True,False,v1675425048
+2025-10-01,2025,4,2025Q4,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,2140.0,,No caution flag,True,False,v1938684514
+2025-10-01,2025,4,2025Q4,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3290.0,,No caution flag,True,False,v1675425049
+2025-10-01,2025,4,2025Q4,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1770.0,,No caution flag,True,False,v1675425046
+2025-10-01,2025,4,2025Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2320.0,,No caution flag,True,False,v1675425157
+2025-10-01,2025,4,2025Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1860.0,,No caution flag,True,False,v1938684667
+2025-10-01,2025,4,2025Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3090.0,,No caution flag,True,False,v1675425158
+2025-10-01,2025,4,2025Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2380.0,,No caution flag,True,False,v1938684668
+2025-10-01,2025,4,2025Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4280.0,,No caution flag,True,False,v1675425159
+2025-10-01,2025,4,2025Q4,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2030.0,,No caution flag,True,False,v1675425156
+2026-01-01,2026,1,2026Q1,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1550.0,,No caution flag,True,False,v1675425122
+2026-01-01,2026,1,2026Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1900.0,,No caution flag,True,False,v1675425123
+2026-01-01,2026,1,2026Q1,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1940.0,,No caution flag,True,False,v1938684619
+2026-01-01,2026,1,2026Q1,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2130.0,,No caution flag,True,False,v1675425124
+2026-01-01,2026,1,2026Q1,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1370.0,,No caution flag,True,False,v1675425121
+2026-01-01,2026,1,2026Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1530.0,,No caution flag,True,False,v1675425022
+2026-01-01,2026,1,2026Q1,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1190.0,E,Use with caution,True,True,v1938684478
+2026-01-01,2026,1,2026Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1900.0,,No caution flag,True,False,v1675425023
+2026-01-01,2026,1,2026Q1,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1340.0,,No caution flag,True,False,v1938684479
+2026-01-01,2026,1,2026Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2390.0,,No caution flag,True,False,v1675425024
+2026-01-01,2026,1,2026Q1,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1430.0,,No caution flag,True,False,v1938684480
+2026-01-01,2026,1,2026Q1,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1270.0,,No caution flag,True,False,v1675425021
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1890.0,,No caution flag,True,False,v1675424992
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1630.0,,No caution flag,True,False,v1938684436
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2350.0,,No caution flag,True,False,v1675424993
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2850.0,,No caution flag,True,False,v1675424994
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1540.0,,No caution flag,True,False,v1675424991
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1420.0,,No caution flag,True,False,v1675424972
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1660.0,,No caution flag,True,False,v1675424973
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1360.0,,No caution flag,True,False,v1938684409
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1890.0,,No caution flag,True,False,v1675424974
+2026-01-01,2026,1,2026Q1,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1170.0,,No caution flag,True,False,v1675424971
+2026-01-01,2026,1,2026Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2110.0,,No caution flag,True,False,v1675425047
+2026-01-01,2026,1,2026Q1,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1840.0,,No caution flag,True,False,v1938684513
+2026-01-01,2026,1,2026Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2660.0,,No caution flag,True,False,v1675425048
+2026-01-01,2026,1,2026Q1,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,2150.0,,No caution flag,True,False,v1938684514
+2026-01-01,2026,1,2026Q1,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3250.0,,No caution flag,True,False,v1675425049
+2026-01-01,2026,1,2026Q1,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1760.0,,No caution flag,True,False,v1675425046
+2026-01-01,2026,1,2026Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2290.0,,No caution flag,True,False,v1675425157
+2026-01-01,2026,1,2026Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1880.0,,No caution flag,True,False,v1938684667
+2026-01-01,2026,1,2026Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3100.0,,No caution flag,True,False,v1675425158
+2026-01-01,2026,1,2026Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2450.0,,No caution flag,True,False,v1938684668
+2026-01-01,2026,1,2026Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4110.0,,No caution flag,True,False,v1675425159
+2026-01-01,2026,1,2026Q1,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2000.0,,No caution flag,True,False,v1675425156
+2026-04-01,2026,2,2026Q2,Calgary,"Calgary, Census metropolitan area (CMA)",1 bedroom,asking,1550.0,,No caution flag,True,False,v1675425122
+2026-04-01,2026,2,2026Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,asking,1890.0,,No caution flag,True,False,v1675425123
+2026-04-01,2026,2,2026Q2,Calgary,"Calgary, Census metropolitan area (CMA)",2 bedrooms,paid,1930.0,,No caution flag,True,False,v1938684619
+2026-04-01,2026,2,2026Q2,Calgary,"Calgary, Census metropolitan area (CMA)",3+ bedrooms,asking,2180.0,,No caution flag,True,False,v1675425124
+2026-04-01,2026,2,2026Q2,Calgary,"Calgary, Census metropolitan area (CMA)",Studio,asking,1320.0,,No caution flag,True,False,v1675425121
+2026-04-01,2026,2,2026Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,asking,1480.0,,No caution flag,True,False,v1675425022
+2026-04-01,2026,2,2026Q2,Montréal,"Montréal, Census metropolitan area (CMA)",1 bedroom,paid,1170.0,,No caution flag,True,False,v1938684478
+2026-04-01,2026,2,2026Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,asking,1820.0,,No caution flag,True,False,v1675425023
+2026-04-01,2026,2,2026Q2,Montréal,"Montréal, Census metropolitan area (CMA)",2 bedrooms,paid,1360.0,,No caution flag,True,False,v1938684479
+2026-04-01,2026,2,2026Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,asking,2260.0,,No caution flag,True,False,v1675425024
+2026-04-01,2026,2,2026Q2,Montréal,"Montréal, Census metropolitan area (CMA)",3+ bedrooms,paid,1440.0,,No caution flag,True,False,v1938684480
+2026-04-01,2026,2,2026Q2,Montréal,"Montréal, Census metropolitan area (CMA)",Studio,asking,1250.0,,No caution flag,True,False,v1675425021
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,asking,1900.0,,No caution flag,True,False,v1675424992
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",1 bedroom,paid,1690.0,,No caution flag,True,False,v1938684436
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",2 bedrooms,asking,2360.0,,No caution flag,True,False,v1675424993
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",3+ bedrooms,asking,2740.0,,No caution flag,True,False,v1675424994
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Ontario),"Ottawa - Gatineau (Ontario part), Census metropolitan area (CMA)",Studio,asking,1550.0,,No caution flag,True,False,v1675424991
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",1 bedroom,asking,1440.0,,No caution flag,True,False,v1675424972
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,asking,1700.0,,No caution flag,True,False,v1675424973
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",2 bedrooms,paid,1370.0,,No caution flag,True,False,v1938684409
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",3+ bedrooms,asking,1910.0,,No caution flag,True,False,v1675424974
+2026-04-01,2026,2,2026Q2,Ottawa–Gatineau (Quebec),"Ottawa - Gatineau (Quebec part), Census metropolitan area (CMA)",Studio,asking,1070.0,,No caution flag,True,False,v1675424971
+2026-04-01,2026,2,2026Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,asking,2090.0,,No caution flag,True,False,v1675425047
+2026-04-01,2026,2,2026Q2,Toronto,"Toronto, Census metropolitan area (CMA)",1 bedroom,paid,1840.0,,No caution flag,True,False,v1938684513
+2026-04-01,2026,2,2026Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,asking,2650.0,,No caution flag,True,False,v1675425048
+2026-04-01,2026,2,2026Q2,Toronto,"Toronto, Census metropolitan area (CMA)",2 bedrooms,paid,2160.0,,No caution flag,True,False,v1938684514
+2026-04-01,2026,2,2026Q2,Toronto,"Toronto, Census metropolitan area (CMA)",3+ bedrooms,asking,3270.0,,No caution flag,True,False,v1675425049
+2026-04-01,2026,2,2026Q2,Toronto,"Toronto, Census metropolitan area (CMA)",Studio,asking,1750.0,,No caution flag,True,False,v1675425046
+2026-04-01,2026,2,2026Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,asking,2280.0,,No caution flag,True,False,v1675425157
+2026-04-01,2026,2,2026Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",1 bedroom,paid,1890.0,,No caution flag,True,False,v1938684667
+2026-04-01,2026,2,2026Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,asking,3030.0,,No caution flag,True,False,v1675425158
+2026-04-01,2026,2,2026Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",2 bedrooms,paid,2470.0,,No caution flag,True,False,v1938684668
+2026-04-01,2026,2,2026Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",3+ bedrooms,asking,4150.0,,No caution flag,True,False,v1675425159
+2026-04-01,2026,2,2026Q2,Vancouver,"Vancouver, Census metropolitan area (CMA)",Studio,asking,2000.0,,No caution flag,True,False,v1675425156

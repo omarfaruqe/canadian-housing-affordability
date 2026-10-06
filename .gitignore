@@ -1,0 +1,30 @@
+# Python environment and caches
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local settings and credentials
+.env
+.env.*
+.streamlit/secrets.toml
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Reproducible downloads and generated charts
+data/raw/*.zip
+data/raw/46100092.csv
+data/raw/inspection_report.txt
+outputs/
+
+# Personal calculator downloads
+housing_budget_scenario*.csv
+selected_rental_observations*.csv
+
+# Temporary SQLite files
+*.db-journal
+*.db-wal
+*.db-shm

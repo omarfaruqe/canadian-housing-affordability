@@ -1,0 +1,7 @@
+reference_date,period,region,apartment_type,rent_measure,monthly_rent_cad,is_available,quality_note,use_with_caution,previous_quarter_rent,previous_year_rent,qoq_change_pct,yoy_change_pct,qoq_use_with_caution,yoy_use_with_caution
+2026-04-01,2026Q2,Vancouver,2 bedrooms,asking,3030.0,1,No caution flag,0,3100.0,3160.0,-2.2580645161290325,-4.113924050632911,0.0,1.0
+2026-04-01,2026Q2,Toronto,2 bedrooms,asking,2650.0,1,No caution flag,0,2660.0,2670.0,-0.3759398496240629,-0.7490636704119868,0.0,1.0
+2026-04-01,2026Q2,Ottawa–Gatineau (Ontario),2 bedrooms,asking,2360.0,1,No caution flag,0,2350.0,2430.0,0.42553191489360653,-2.8806584362139898,0.0,1.0
+2026-04-01,2026Q2,Calgary,2 bedrooms,asking,1890.0,1,No caution flag,0,1900.0,2020.0,-0.5263157894736858,-6.435643564356431,0.0,1.0
+2026-04-01,2026Q2,Montréal,2 bedrooms,asking,1820.0,1,No caution flag,0,1900.0,1920.0,-4.210526315789476,-5.2083333333333375,0.0,1.0
+2026-04-01,2026Q2,Ottawa–Gatineau (Quebec),2 bedrooms,asking,1700.0,1,No caution flag,0,1660.0,,2.4096385542168752,,0.0,
