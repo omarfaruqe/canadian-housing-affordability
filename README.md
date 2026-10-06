@@ -218,3 +218,8 @@ publishing refreshed data.
 - Add automated checks for date matching and quality propagation.
 - Add household income datasets with explicit geographic and
   reference-period alignment.
+
+
+## Live demo
+
+[Launch Canadian Housing Affordability Explorer](https://canadian-housing-affordability.streamlit.app/)  
